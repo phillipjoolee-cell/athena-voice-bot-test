@@ -1,0 +1,15 @@
+User: This call may be recorded for quality and training purposes. For calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. That's me, Mason Reyes. I'm calling to schedule an appointment. And I've got Blue Cross Insurance. If you need that.
+User: Please provide your date of birth.
+AI: Sure. It's March fifteenth 19 91.
+User: Thanks, Mason. Type of appointment do you need? Is this for a new concern, a follow-up, a routine visit, or something else?
+AI: It's a follow-up. Yeah. I've been having some knee pain that I saw doctor 1 of your doctors about a few months back. Oh, and actually, my insurance is Aetna. Just so you have that on file.
+User: Thanks for clarifying, Mason. Do you have a specific provider you'd like to see for your follow-up or is the first available appointment okay?
+AI: First available is fine. I'm pretty flexible on that.
+User: We have several openings for a follow-up on Wednesday, June 20 fourth. Would you like 11 AM with Doogie Howser, 1 PM with Carl Mintz, or 1 PM with Kelly Noble?
+AI: Let's do 11 AM with Doogie Howser. That works for me.
+User: Looks like there was a problem booking that slot. Me try again. To secure your appointment. 1 moment. Your follow-up is set for Wednesday, June 20 fourth at 11 AM with Doody Hauser. Please bring your photo ID, Aetna insurance card, a list of your current medications, and any imaging discs if you have them. Would you like a text confirmation of your appointment?
+AI: Yeah. A text confirmation would be great. Thanks.
+User: You'll get a text confirmation soon. If you have any other questions or need to change your appointment, just let us know.
+AI: Sounds good. I appreciate it. Thanks for catching that insurance thing too, by the way. Have a good 1.
+User: You're all set, Mason. Take care, and we'll see you at your appointment. You're welcome, Mason. Have a great day, and we'll see you soon.

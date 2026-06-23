@@ -1,0 +1,21 @@
+AI: Hello.
+User: may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of PrettyGood AI. Am I speaking with Mason?
+AI: Yeah. That's me. Hi.
+User: Hi, Nathan. How can I help you today?
+AI: It's Mason, actually. need to see a doctor. I've got a sinus infection, and I feel pretty rough.
+User: Please tell me your date of birth.
+AI: March fifteenth nineteen ninety.
+User: Thanks, Mason. Just to confirm, you'd like to book a visit for your sinus infection. Is this for a general office visit, or do you feel it's urgent and need to be seen as soon as possible?
+AI: As soon as possible. Yeah.
+User: Do you have a specific provider you'd like to see? or the first available appointment okay?
+AI: First available is fine.
+User: Let me check for the soonest available appointment for your urgent sinus infection. One moment. The soonest openings are Tuesday with
+AI: Yeah.
+User: The first available slot is at one fifteen PM with doctor z Bagnu Locosky. Would you like to book that time?
+AI: Sure. Yeah. That works.
+User: Your appointment is set for tomorrow, Tuesday, June twenty third at one fifteen PM. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them. Is there anything else you need help with today?
+AI: No. That's it. Thanks.
+User: You're all set, Mason. We'll see you tomorrow at one fifteen PM. Take care and feel better soon.
+AI: Thanks. Bye.
+User: Goodbye, Nathan.
+AI: It's Mason. But, yeah, bye.

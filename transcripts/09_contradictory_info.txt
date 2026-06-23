@@ -1,0 +1,16 @@
+User: This call may be recorded for quality and training purposes. For calling Pivot Point Orthopaedics. Part of Pretty Good AI. I speaking with Mason?
+AI: Yeah. That's me. Um, Hi. I'm I'm calling to schedule an appointment I've been having some knee pain, and I wanted to get that looked at.
+User: Please provide your date of birth.
+AI: Sure. It's, uh, March fifteenth 19 90.
+User: Thanks, Mason. Can you tell me a bit more about what you need to have looked at? Are you experiencing pain? An injury, or is this a routine checkup?
+AI: Yeah. So it's my right knee. Uh, it's been bothering me for, like, the past few weeks. It's kind of a dull ache mostly, but sometimes it gets pretty sharp when I go upstairs. I don't think I injured it. It just kinda started on its own.
+User: Thanks for sharing that. Just to confirm, are you looking to have your knee pain checked out as a general office visit? Or do you feel this needs more urgent attention?
+AI: No. I think a regular office visit is fine. It's not, like, unbearable or anything. Just wanna get it checked out. Before it gets worse. You know?
+User: Got it. Do you have a specific provider you'd like to see, or are you open to the first available?
+AI: I'm open to whoever's available first. I just wanna get in as soon as I can.
+User: It looks like you already have an office visit appointment booked for the same issue. If you'd like, I can help you reschedule or cancel that appointment. Would you like to make a change, or do you wanna speak with someone from our team?
+AI: Oh, really? I don't remember making that. What date is it for?
+User: I don't have access to the exact date of your current appointment. Would you like me to connect you with a team member who can look that up and help you with any changes?
+AI: Yeah. That'd be
+User: I know that the exact connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+AI: Oh, uh, okay. That was weird. So is someone still there? Or

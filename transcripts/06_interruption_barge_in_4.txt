@@ -1,0 +1,16 @@
+User: This call may be recorded for quality and training purposes. Thank you for calling Pivot Point Orthopaedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+AI: Yeah. Mason Reyes.
+User: Your patient profile is set up, and your date of birth is July fourth 2000 for demo purposes. How may I help you today?
+AI: Hi. Yeah. I've got pretty bad lower back pain. That came on suddenly this morning. And I'm hoping to get in to see someone today if at all possible.
+User: It sounds like you need an urgent visit for your sudden lower back pain. Just to confirm, are you looking to book an visit for this issue today?
+AI: Yes. Exactly. As soon as possible.
+User: We have openings tomorrow, Wednesday, with your primary providers. Would you prefer morning or afternoon? I can offer you an early slot at 8 30 AM. 8 45 AM, or 9 AM. Would any of those work for you?
+AI: Actually, wait. Do you have anything today at all? I really don't want to wait until tomorrow if I can help it.
+User: There are no openings showing for today. The earliest available is tomorrow morning. Would you like to take 1 of those early slots? Or would you prefer a different time tomorrow?
+AI: Okay. Can you just list out all the options you have tomorrow morning and afternoon both? I want to pick the best 1.
+User: Here are all the available times for tomorrow, Wednesday morning, 8 30 AM, 8 45 AM, 9 AM, 9 15 AM, 9 30 AM, and 9 45 AM. Afternoon, 1 PM, 1 15 PM, 1 30 PM, 1 45 PM, 3 PM, 3 30 PM, and 3 45 PM. Let me know which time works best for you.
+AI: Hold on. The 8 30 AM works. Let's just do that 1.
+User: You're booked for tomorrow at 8 30 AM. Please bring your photo ID insurance card, a list of your current medications, and any imaging discs if you have them. Is there anything else you need help with today?
+AI: No. That's everything. Thanks.
+User: You're all set for your appointment tomorrow at 8 30 AM. If you need anything else, just give us a call. Take care.
+AI: Thanks. Bye.

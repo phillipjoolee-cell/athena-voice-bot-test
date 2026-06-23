@@ -1,0 +1,16 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. I speaking with Mason?
+AI: Yeah. Hey. That's me. Hi. I've been having some knee pain for the past couple weeks. And I was hoping to get in to see someone about it.
+User: Can you please provide your date of birth?
+AI: Yeah. Sure. It's March fifteenth 19 91.
+User: Thanks. Just to confirm, are you looking to book a general office visit to your knee pain, or is this an urgent issue that needs same day attention?
+AI: No. It's not like an emergency or anything. Just a general visit. It's been kind of nagging at me for a while. So I figured I should get it checked out.
+User: Do you have a specific provider you'd like to see, or are you open to the first available?
+AI: I'm open to whoever's available first, honestly. I just wanna get it looked at.
+User: Let me check for the soonest available appointments for a general office visit for your knee pain. 1 moment. It looks like you already have it looks like you already have an office visit booked for the same issue. If you'd like, I can help you or cancel that appointment or connect you to a team member for more help. What would you like to do?
+AI: Oh, shoot. Yeah. I totally forgot about that. Is that appointment? Do you have that info?
+User: I don't have access to your current appointment details. But I can connect you to a team member who can look that up for you. Would you like me to transfer you now?
+AI: Yeah. That works. But, actually, uh, real quick while I've got you. Do you think I should take for the pain in the meantime? Like, is ibuprofen okay? Or should I avoid that?
+User: For general knee pain, over the counter medications like ibuprofen or acetaminophen are usually safe for most people. Unless you have allergies or medical conditions that make them unsafe for you. If you have any kidney issues, stomach ulcers, or on blood thinners, check with your doctor first. If the pain gets worse, or you notice swelling, redness, or trouble walking, reach out to your provider right away.
+AI: Oh, okay. Good to know. Yeah. I'll probably just grab some ibuprofen then. Thanks for that. So, yeah, go ahead and and transfer me over so I can figure out when that appointment is.
+User: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+AI: Oh, Okay then. Well, I guess that's that. Thanks anyway.

@@ -1,0 +1,17 @@
+AI: Hello.
+User: Call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. That's me. Hi. I was just calling to get some info about the practice before I decide whether to make an appointment.
+User: Happy to help, Mason. Pivot Point Orthopedics treats joint, muscle, and bone condition. We offer doctor visits and physical therapy in one location with flexible appointments for new and returning patients. Is there something specific you'd like to know about our services or providers?
+AI: Yeah. Actually, two things. First, do you guys take my insurance? And second, I'm trying to figure out your hours because I work a pretty standard nine to five, so I need to know if you have any evening or weekend availability.
+User: Can you please provide your date of birth This helps me check insurance details and availability for you.
+AI: Oh, actually, I'm not really looking to book anything yet or give out personal info. I just wanna know if you take my insurance before I go any further. Do you accept Blue Cross
+User: No problem, Mason. You don't have to share any personal info right now. Vivit Point Orthopaedics does accept most major insurance plans, including Blue Cross. For your second question, we offer some evening appointments during the week and limited Saturday hours. Would you like more details about specific days or time?
+AI: Yeah. Actually, when you say limited Saturday hours, what does that mean exactly? Like, what time do you open and close on Saturdays?
+User: On Saturdays, we're open from eight AM to noon. If you need a weekday evening, we usually have appointments available until seven PM on select days. Let me know if you want details for a specific date or provider.
+AI: Okay. And which days of the week do you have those evening slots until seven? Is it, like, every weekday or just certain ones?
+User: Evening appointments until seven PM are usually available on Tuesdays and Thursdays. Other weekdays typically end earlier around five PM. If you want to check a specific date, just let me know.
+AI: Okay. That's helpful. And just to confirm, on the Blue Cross thing, you said you accept it, but do you know offhand if that includes, like, Blue Cross Blue Shield PPO plans, or do you know which specific Blue Cross plans you take?
+User: We accept most Blue Cross Blue Shield PPO plans, but coverage can vary by plan type. For the most accurate answer, it's best to call the number on your insurance card or check with your plan directly. If you decide to book, we can also verify your specific coverage for you.
+AI: Got it. That makes sense. Uh, I might just call my insurance directly to double check. But, yeah, this has been helpful. Tuesdays and Thursdays until seven and Saturdays until noon. I think I have enough to decide if I want to come in. Thanks for the info.
+User: You're welcome, Mason. If you decide to schedule or have more questions, just give us a call. Have a great day.
+AI: Yeah. Thanks. You too. Bye.

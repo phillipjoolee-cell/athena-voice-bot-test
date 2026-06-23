@@ -1,0 +1,13 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedic. Part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. Hey. This is Mason. Hi.
+User: Please tell me your date of birth.
+AI: It's March fifteenth 19 90.
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+AI: Hey. Yeah.
+User: The birthday go ahead. Mason can I help you with today?
+AI: Oh, sorry. Yeah. I just wanted to schedule a routine physical. Like, a checkup. Nothing specific going on.
+User: You'd like to schedule a general check up? Just a routine visit, Is that
+AI: Yeah. Exactly. Just a routine physical. That's all.
+User: Do you have a specific provider you'd like to see, or are you open to anyone available?
+AI: Let me think. I usually see doctor shoot. What's her name? I think it's doctor Patel. But, honestly, if she's not available, I'm open to whoever.
+User: Let me check for openings with doctor Patel first. Nothing is available, I'll look for other providers too. 1 moment. Doctor Patel does not have openings this week, but I see spots with

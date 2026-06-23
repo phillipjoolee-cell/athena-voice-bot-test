@@ -1,0 +1,18 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. I speaking with Mason?
+AI: Yeah. Hey. That's me, Mason Reyes. Hi.
+User: Please provide your date of birth.
+AI: Yeah. It's March fifteenth 19 90.
+User: The birthday doesn't match our records. But for demo purposes, I'll accept it. How can I help you today?
+AI: Hey. Yeah. I'm calling to schedule a routine physical. Just, you know, the annual checkup kinda thing.
+User: You'd like to schedule a general office visit for a routine checkup. Is that right?
+AI: Yeah. That's right. Routine physical, just the annual 1?
+User: Do you have a specific provider you'd like to see? Or are you open to anyone available?
+AI: Let me think. I usually see doctor hold on. I wanna say say doctor Patel. Honestly, if she's she's not available, I'm pretty flexible. Don't mind seeing whoever's got an opening.
+User: I'll look for openings with doctor Patel first. If nothing is available soon, I'll check for any provider. 1 moment while I find the next available appointment. It looks like you already have a routine physical appointment booked. You want to reschedule or cancel it, I can help with that. Would you like to make a change to your existing appointment?
+AI: Oh, really? Let me think. Might have forgotten about that. Do you know when that appointment is? Like, what date it's scheduled for?
+User: I don't have access to your exact appointment date right now. I recommend calling the clinic directly or checking your patient portal for the details. Would you like me to connect you to a live representative for more help?
+AI: Actually, that might be the easiest thing. Sure. Go ahead and connect me. Can just ask them directly about the existing appointments and figure out if I need to reschedule or whatever.
+User: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line.
+AI: Sure. Yep.
+User: Goodbye.
+AI: Oh, okay then. That was unexpected. Alright. I guess I'll just check my patient portal then. Thanks anyway.

@@ -1,0 +1,10 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Hi. Yes. This is Mason. But I'm actually calling on behalf of my dad, Robert Reyes. He's been having some hip pain. And needs to get in for a follow-up appointment. He asked me to call for him since he's resting right now.
+User: Can you please provide your dad's full date of birth?
+AI: Sure. It's June third 19 58.
+User: Just to confirm, can you please spell out your dad's full name for me? I have Robert Reyes and date of birth as June third 19 58. Is that correct?
+AI: Yes. That's correct. Robert Reyes, r o b e r t r e y e s. And the date of birth is right. June third 19 58.
+User: Would you like to use a phone number to help look up your dad's record? If so, can you tell me the number you have on file for him? If you're not sure, just let me know.
+AI: I'm not totally sure what number he has on file with you guys. Might wanna try try looking him up just by name and date of birth, if that works.
+User: I'm unable to look up your dad's record with just his name and date of birth right now. I'll connect you to our patient support team so they can help you directly. Please stay on the line. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+AI: Oh, okay. Well, I hope someone can still help get that appointment. Set up for my dad. Thanks.

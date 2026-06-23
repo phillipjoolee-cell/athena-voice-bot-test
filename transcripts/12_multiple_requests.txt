@@ -1,0 +1,50 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. Hey. That's me. Hi.
+User: Please tell me your date of birth.
+AI: Sure. It's March fifteenth 19 90.
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+AI: Yeah. So I have an appointment sometime next week. I don't remember the exact day, but need to push it to later in the week, if possible. Can you look that up for me?
+User: Yeah. That appointment on Monday, June 20 ninth. At 10 30 AM. Is this the 1 you want to move to later in the week? You have an appointment on Monday, June 20 ninth. At 10 30 AM. Would you like to reschedule this 1 for a later day that week?
+AI: Yeah. That sounds right. Monday doesn't work for me anymore. Can you see what's available later in the week?
+User: I have Wednesday, July first, at 10 AM and Thursday, July second at either 10 or 10 30 AM. Do any of those work for you, or would you like to try for a different day or time?
+AI: Let's do Thursday, July second at 10 30. Works best for me.
+User: Can you tell me the reason you need to reschedule your appointment?
+AI: Just a scheduling conflict came up. Something I couldn't move on my end.
+User: You'd like to move your appointment to Thursday, July second at 10 30 AM in Nashville with Kelly Noble, MD. You'll need to bring a photo ID and your insurance card. Should I go ahead and reschedule to this new time?
+AI: Yeah. Go ahead and do that.
+User: Your appointment is now set for Thursday, July second at 10 30 AM with Kelly Noble MD. Would you like me to send you a text message with these details?
+AI: Yeah. Sure. That'd be great. Oh, and while I've got you, I also get a refill on my blood pressure medication?
+User: Which blood pressure medication do you need refilled? Please tell me the name as it appears on your prescription bottle.
+AI: It's Lisa and Opryl. 10 milligrams.
+User: How many days of lisinopril do you have left? If you're already out, just let me know.
+AI: I've got maybe, like, 4 or 5 days left.
+User: I'll note 5 days left. Can I confirm your callback number as 9 7 0 5 9 1 0 4 8 2 Is that correct?
+AI: Yeah. That's right.
+User: Is there anything else you'd like the staff to know about your request? For example, any symptoms, urgency, or other notes?
+AI: No. I think that covers it. Just need the refill before I run out.
+User: Could you please provide the name of the pharmacy you want to use for your medication? If you know the address, city, or any details like cross streets or nearby stores, that would help too. If you have your phone or fax number, please share that as well.
+AI: Yeah. It's the CVS on Main Street. I'm in Denver. I don't have the fax number off the top of my head. Sorry.
+User: Thanks for sharing that. Could you tell me which state the CVS on Main Street in Denver is located in? If you know the ZIP code or street address, that would help too.
+AI: It's Denver, Colorado. I don't know the ZIP code off the top of my head, though.
+User: No problem. There are a few CVS locations in Denver, Colorado, but none are listed. Specifically on Main Street. Do you remember any nearby landmarks, cross streets, or if the CVS is inside a Target store? Do any of these addresses sound familiar? Northfield Boulevard, East Hampton Avenue, South Colorado Boulevard, Sheridan Boulevard, sixteenth Street, eighteenth Street, or East eighth Place.
+AI: I think it might be the 1 on South Colorado Boulevard. Actually. I might have been mixed up on the street name.
+User: Great. Thank you. To confirm, is this the pharmacy you wanna use? CVS 1 7 8 1 4 in Target at 2 4 9 0 South Colorado Boulevard, Denver 8 0 2 2 2.
+AI: Yeah. That sounds right.
+User: Just to confirm, you'd like a refill for Lisa Noprile. 10 milligrams. Is that correct?
+AI: Yeah. Lisinopril, 10 milligrams. That's the 1.
+User: Could you please the name of the pharmacy you want to use for your medication? If you know the address, city, or any details like cross streets or nearby stores. That would help too. If you have their phone or fax number, please share that as well.
+AI: We we already did that part. Like, it's the CVS at 2 4 9 euro South Colorado Boulevard in Denver. Did something not save?
+User: I have the pharmacy as CVS at 2 4 9 0 South Colorado Boulevard in Denver. Is that correct? If you know the ZIP code, phone, or fax number for this location, please let me know.
+AI: Yeah. That's right. And I don't have the phone or or fax number on me. Think what you have should be should be enough to find it.
+User: Which medication do you need refilled for this request? Please tell me the name as it appears on your prescription bottle.
+AI: We already went over this too. Felicinopril, 10 milligrams. Is something going wrong on your end?
+User: Could you please provide the name of the you want to use for your medication? If you know the address, city, or any details like cross streets or nearby landmarks, that would help too. If you have their phone or fax number, please share that as well.
+AI: Yeah. Something's definitely off on your end. We've gone through all of this already. It's lisinopril, 10 milligrams. At the CVS on South Colorado Boulevard in Denver. But, hey, before we lose track, can you confirm my appointment reschedule is still locked in? Thursday, July second at 10 30 AM?
+User: Yes. Your appointment is confirmed for Thursday, July second. At 10 30 AM with Kelly Noble, MD. Let me know if you need anything else.
+AI: Okay. Good. And the refill request is that actually going through? Because we've gone into circles on it a few times, and I just wanna make sure it's submitted before I hang up.
+User: Your refill request for milligrams at the CVS on South Colorado Boulevard in Denver has been submitted to the clinic support team. They will review it and get back to you as soon as possible. Is there anything else I can help you with today?
+AI: It cut off the medication name there. It's lisinopril, 10 milligrams. Just wanna make sure that's on the refill request. Can you confirm that?
+User: Yes. Your refill request is for lisinopril 10 milligrams. That's what I submitted for you. The clinic team will follow-up soon.
+AI: Okay. Great. That's everything then. Thanks for your help.
+User: You're all set, Mason. Your appointment is confirmed, and your refill request is submitted. Have a great day.
+AI: Thanks. You too. Bye.

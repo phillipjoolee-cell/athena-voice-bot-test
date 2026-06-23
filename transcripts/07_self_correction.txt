@@ -1,0 +1,20 @@
+AI: Hello.
+User: Call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. Hey. That's me, Mason Reyes.
+User: Please tell me your date of birth
+AI: Sure. It's March fifteenth nineteen ninety.
+User: The birth date doesn't match our records, but for demo purposes, I'll accept it. How can I help you today,
+AI: Hi. Yeah. I need to schedule a follow-up appointment. It's for my shoulder. I've been having some ongoing issues with it, and I think my doctor wanted me to come back in.
+User: You'd like to schedule a follow-up appointment for your shoulder issues. Is that correct?
+AI: Yeah. Actually, wait. Sorry. I misspoke. I meant my knee, not my shoulder. It's my knee that's been bothering me.
+User: No problem. I have you down for a follow-up appointment for ongoing knee issues. Do you have a specific provider you'd like to see? or are you open to any available provider?
+AI: I'd like to see doctor Patel if possible. She's who I've been seeing for this.
+User: It looks like you already have a follow-up appointment of this type booked. If you'd like, I can help you reschedule or cancel that appointment. Would you like to make a change, or do you want to keep your current appointment
+AI: Oh, wait. Really? wasn't aware of that. Can you tell me when that appointment is?
+User: I don't have access to your exact appointment details, but the clinic team can provide that information. Would you like me to connect you to a live representative who can look up your appointment date and time?
+AI: Yeah. That works. but, actually, hold on. Can you just schedule a new one anyway? Maybe I'm thinking of a different appointment. Let's just go ahead and book something with doctor Patel for my knee.
+User: I'm not able to book a new follow-up appointment for your knee since there's already one scheduled. If you'd like, I can connect you to a live representative who can help sort this out. and make sure you get the right appointment. Would you like me to transfer you now?
+AI: Yeah. Sure. Go ahead and transfer me.
+User: Connecting you to a representative. Please wait. Hello. You've reached the pretty good AI test line. Goodbye.
+AI: Sure.
+AI: Wait. What? That's... okay. That was a little anticlimactic. So is there actually someone I can talk to? Or

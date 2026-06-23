@@ -1,0 +1,9 @@
+AI: Hello.
+User: may be recorded for quality and training purposes. Thanks for calling Kidd at Point Orthopedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. That's me. Though I think I might have the wrong number, I'm trying to reach my doctor's office for a prescription refill.
+User: Can you please provide your date of birth
+AI: Yeah. July fourteenth nineteen ninety. but I think I've got the wrong place. I'm trying to reach my primary care doctor.
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. Pivot Point Orthopedics is a clinic for joint, muscle, and bone care. We help with orthopedic issues, not primary care. If you need a prescription refill from your primary care doctor, you'll want to contact their office directly. Would you like help with anything orthopedic related today?
+AI: No. That's okay. I must have dialed the wrong number. Thanks anyway.
+User: No problem. If you ever need orthopedic care, feel free to call us. Have a great day.
+AI: Yeah. You too. Bye.

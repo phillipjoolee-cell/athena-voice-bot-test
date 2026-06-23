@@ -1,0 +1,6 @@
+# Local environment variables (API keys)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc.DS_Store

@@ -1,0 +1,17 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. That's me. I need to get in to see someone. Today, if possible, but my back is killing me.
+User: Please tell me your date of birth.
+AI: October fourteenth 19 90.
+User: Thanks, Mason. Just to confirm, you'd like to be seen today for severe back pain. Is this a new urgent issue that needs prompt attention?
+AI: Yes. It started this morning. Sharp pain, lower back. I wouldn't call it ER level, but it's bad enough that I don't wanna wait a week for an appointment.
+User: Understood. Do you have a specific provider you'd like to see, or is the first available appointment okay?
+AI: First available is fine. Yeah.
+User: Let me check for the earliest available appointment for your urgent back pain.
+AI: Okay. Yeah. Go ahead.
+User: The soonest I can offer is tomorrow, June 20 fourth. Would you like to come in at 8 15 AM with doctor Zidmaymulikovsky? Or would you prefer a later time?
+AI: Wait. Hold on. The the 8 15 is fine. Let's do that.
+User: You're all set for tomorrow, Wednesday, June 20 fourth at 8 15 AM with doctor Zeebigniew Likoski. Please bring your photo ID, insurance card, a list of your current medications, and Eddie imaging discs. If you have them. Is there anything else you need help with today?
+AI: No. That's it. Thanks.
+User: You're scheduled for tomorrow at 8 15 AM. If anything changes, just give us a call. Take care, Mason.
+AI: Will do. Thanks. Bye.
+User: Goodbye, Mason. Hope you feel better soon.

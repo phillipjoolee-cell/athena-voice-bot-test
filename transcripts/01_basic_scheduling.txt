@@ -1,0 +1,31 @@
+AI: Hello.
+User: recorded for quality and training purposes. Thank you for calling Pivot Point Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+AI: Oh, hey. Yeah. It's Mason Reyes.
+User: Your patient profile is set up, and your date of birth is July fourth two thousand for demo purposes. How may I help you today?
+AI: Yeah. I'm just trying to schedule a follow-up appointment. I've been having some ongoing knee pain, and my doctor wanted me to come back in.
+User: You'd like to schedule a follow-up appointment for ongoing knee pain. Is that correct?
+AI: Yeah. That's right.
+User: You'd have a specific provider you'd like to see, or are you open to the next available?
+AI: Uh, I'd like to see doctor... hold on. Sorry. I'm driving. Doctor Patel. That's who I've been seeing.
+User: No problem. Let me check for follow-up appointment openings with doctor Patel. One moment. I couldn't find any openings with Doctor. Patel this week. However, there are several follow-up appointments available with other providers at Pivot Point Orthopaedics on Tuesday, June twenty third. Would you like to hear about those? or would you prefer to wait for Doctor. Patel?
+AI: When's the next opening with doctor Patel? Like, how far out are we talking
+User: I'll see Doctor. Patel listed in the current openings. Would you like me to search further ahead for Doctor. Patel? or would you like to book sooner with another provider?
+AI: Yeah. Can you search a little further ahead for her? I'd rather stick with doctor Patel if possible.
+User: One moment while I search for the next available follow-up appointment with doctor Patel. I still don't see any opening.
+AI: Sure.
+User: Would you like to book Another provider sooner? Or should I keep checking for doctor Patel Later dates.
+AI: How much later are we talking Like, is it weeks or months?
+User: I haven't found any openings with Doctor. Patel through next week. Would you like me to search even further out to see if anything is available in the coming weeks
+AI: Yeah. Go ahead and check. Um, but, honestly, if it's, like, more than two weeks out, I might just go with someone else.
+User: Understood. Let me search for the next available appointment with doctor Patel over the next month. One moment. I still don't see any openings with doctor Patel through the next two weeks. Would you like to book sooner with another provider or keep waiting for doctor Patel
+AI: Okay. Yeah. Let's just go with someone else then. Do you have anything next week, like in the afternoon? that works best for me.
+User: We have several afternoon openings next week with other providers. Would you prefer to see a medical doctor or a physical therapist?
+AI: a medical doctor. I need to talk through some treatment options. So... yeah.
+User: Got it. Here are some afternoon openings next week with a medical doctor. On Tuesday, June twenty third, Kelly Noble, MD has a one PM slot available. Would you like to book that or hear about other options?
+AI: One PM is a little early for me. Anything later in the day, like two or three,
+User: Kelly Noble MD has a three PM opening on Tuesday, June twenty third. Would you like to book the three PM slot?
+AI: Yeah. Three PM works. Let's do that.
+User: Your follow-up appointment is booked for Tuesday, June twenty third at three PM with Kelly Noble MD. Please bring your photo ID, insurance card, a list of current medications, and any imaging discs if you have them. Is there anything else I can help you with today?
+AI: No. That's it. Thanks a lot.
+User: You're all set for your appointment. Have a great day.
+AI: Thanks. You too. Bye.

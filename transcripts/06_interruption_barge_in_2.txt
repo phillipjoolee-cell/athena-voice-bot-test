@@ -1,0 +1,6 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. That's me. Though, I think I have the wrong number. I'm trying to reach my doctor's office.
+User: You've reached Pivot Point Orthopedics. An orthopedic clinic for joint, muscle, and bone care. If you'd like, I can help with appointments, questions, or connect you to our support team. Would you like to continue, or do you want to hang up and try another number?
+AI: I'll hang up and try another number. Thanks.
+User: No problem. If you ever need orthopedic care, feel free to call us back. Take care.
+AI: Yeah. Thanks. Bye.

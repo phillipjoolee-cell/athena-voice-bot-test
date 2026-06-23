@@ -1,0 +1,9 @@
+AI: Hello.
+User: Call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. That's me. Although pivot point orthopedics... I'm trying to reach my doctor's office for a prescription refill. I think I might have the wrong number.
+User: Can you please provide your date of birth
+AI: Uh, Yeah. It's March fifteenth nineteen ninety. But is this actually my doctor's office? I was calling for a refill on my blood pressure medication.
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. pivot point orthopedics is a clinic focused on joint, muscle, and bone care. If your blood pressure medication was prescribed here, I can help with your refill. Would you like to continue?
+AI: I mean, my blood pressure medication wasn't prescribed at an orthopedics place, so I'm pretty sure I dialed the wrong number. I'll have to call back. Thanks anyway.
+User: No problem. If you ever need help with joint muscle or bone care, feel free to call us. Have a good day.
+AI: Yeah. Thanks. Bye.

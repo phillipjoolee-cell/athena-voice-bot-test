@@ -1,0 +1,23 @@
+AI: Hello.
+User: Recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. Hey. That's me. Hi.
+User: Please tell me your date of birth.
+AI: Sure. It's, uh, March fifteenth nineteen ninety one.
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+AI: Yeah. So I have an appointment on Tuesday, and I need to move it. Something came up at work, and I just can't make it work. Is there any way to push it till later in the week, like Thursday or Friday?
+User: You have a follow-up appointment with Kelly Noble, MD, tomorrow, June twenty third at one PM at Nashville two two zero Athens Way. Is this the appointment you wanna move to later in the week?
+AI: Wait. Tomorrow? No. I thought it was Tuesday. Is tomorrow Tuesday? What's today?
+User: Today is Monday, June twenty second. Tomorrow is Tuesday, June twenty third. Your appointment is scheduled for tomorrow at one PM. Would you like to move this appointment to Thursday or Friday instead?
+AI: Okay. Yeah. That makes sense. Yeah. That's the one. Sorry. I lose track of the day sometimes. So, yeah, can we move
+User: The next No problem. I can move your appointment to Friday, June twenty sixth at one PM with Kelly Noble, MD in Nashville. Can you tell me the reason you need to reschedule?
+AI: Oh, just a work thing. Nothing major. So Friday, the twenty sixth at one PM. Is there anything earlier in the day, or is that the only slot? And did you have anything Thursday?
+User: The only available slot on Thursday, July ninth, is at one PM or two PM. On Friday, June twenty sixth, the only slot is at one PM. Would you like to take one of these or try for a different day or time.
+AI: Wait. Thursday, July ninth? That's, like, two weeks out. I thought you were talking about this Thursday, like, June twenty fifth. Do you have anything that week? like this coming Thursday.
+User: Yes. there is an opening this Thursday, June twenty fifth, at one PM with Kelly Noble, MD in Nashville. Would you like to move your appointment to that time?
+AI: Thursday at one. Yeah. Actually, I think that works. Let me think. Yeah. That should be fine. Let's do that.
+User: Great. Just to confirm, you wanna move your appointment with Kelly Noble. MD to Thursday, June twenty fifth at one PM in Nashville. The reason is a work conflict. Is that correct? You'll need to bring a photo ID and your insurance card.
+AI: Yeah. That's correct. Sounds good. Thanks for doing that. I appreciate it.
+User: Your appointment has been moved to Thursday, June twenty fifth at one PM with Kelly Noble, MD in Nashville. Please remember to bring your photo ID and insurance card. Let me know if you need anything else.
+AI: No. That's everything. Thanks. Bye.
+User: You're all set. Have a great day. Goodbye.
+AI: Thanks. You too. Bye.

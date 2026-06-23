@@ -1,0 +1,45 @@
+AI: Hello.
+User: may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. Hi. That's me, uh, Mason Reyes.
+User: Please provide your date of birth
+AI: Sure. It's, um, March fifteenth nineteen ninety
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+AI: Oh, okay. So I'm not totally sure, actually. I think I might need a refill on one of my medications, but I'm also kinda wondering if... like, I haven't been in for a while, so maybe I should just come in. I don't know. What what do you think makes more sense?
+User: I can help with both a medication refill and scheduling an appointment. Would you like to start with a refill, or would you prefer to book a visit first?
+AI: I mean, which one is more urgent, I guess? Like, is there a way to know that without me having to figure it out myself? That's kind of why I'm calling.
+User: If you're running low on your medication or out, the refill is usually more urgent. If you're not sure, I can check your last visit and refill status, then help you decide. Would you like me to look up your recent appointments and medications?
+AI: Yeah. Yeah. That would be great, actually. Go ahead.
+User: Can you tell me the name of the medication you think you need refilled?
+AI: I think it's... god, I always blank on the name. It's for my knee, like an anti inflammatory. I wanna say it starts with an m, maybe. Meloxicam, I think that's it.
+User: Thanks for sharing, Matt. How many days of meloxicam do you have left? If you're already out, just let me know.
+AI: It's Mason, actually, and, um, I'm not sure. I'd have to go check the bottle. I think I have, like, maybe a week left, maybe less. I honestly haven't been keeping great track of it.
+User: No problem, Mason. Would you like to check the bottle now, or should I put down an estimate of about five days left?
+AI: Let's just say five days, that's probably close enough. But wait. Does that change whether I should come in or not? Like, if I'm almost out, does the doctor need to see me before they'll refill it?
+User: If you're stable on meloxicam and haven't had any new issues, a refill can often be handled without a visit. if it's been a long time since your last appointment or you have new symptoms, the clinic might ask you to come in. Would you like to request the refill now? or would you prefer to schedule a visit just in case?
+AI: How long has it been since my last appointment? I mean, you said you're gonna look that up. Right?
+User: I don't have access to your full visit history, but I can help with your refill request now. If the clinic needs you to come in, they'll let you know when they follow-up. Can I get a callback number for you in case the staff needs to reach you? I have your number as nine three zero two three nine two seven three seven. Is that correct?
+AI: Yeah. That's right. But wait. I thought you said you were going to look up my recent appointments and medications. Like, that's why I said yes. Go ahead. And now you're saying you can't see that?
+User: You're right, Mason. I can see if you have medications on file, but I don't have full access to your appointment history. For your chart, I don't see any current medications listed, so I'm collecting the details directly from you. If you'd like, I can still process your refill request for meloxicam with about five days left. Would you like to add any notes for the clinic like new symptoms or concerns.
+AI: Sorry. Can you just tell me simply... can you help me or not?
+User: Yes. I can help you request a refill for meloxicam. I'll send your request to the clinic, and they'll follow-up if they need more info or want you to come in. Would you like to add any notes or concerns for the clinic?
+AI: Yeah. Actually, I've been having some stomach stuff lately, like some discomfort. I don't know if that's related to the medication or not, but maybe mention that.
+User: Could you please provide the name of the pharmacy you want to use for your medication? If you know the address, city, or any details like cross streets or nearby stores, that would help too. If you have their phone or fax number, please share that as well.
+AI: It's the CVS on Maple Street. Uh, I don't know the fax number or whatever. They should have it on file. Right?
+User: Could you tell me the city and state where the CVS on Maple Street is located? That will help make sure your medication goes to the right place.
+AI: It's in Springfield. I think that's all I know. I mean, it's my regular pharmacy. Shouldn't it be in my file already?
+User: Could you let me know which state the CVS in Springfield is in? There are several Springfields, so this will help make sure I have the right pharmacy.
+AI: Oh, right. Yeah. It's Illinois. Springfield, Illinois.
+User: I see several CVS locations in Springfield, Illinois, but none are listed on Maple Street. Here's some options nearby CVS inside Target on Freedom Drive, CVS inside Schnucks on East Cook Street, CVS inside Schnucks. On Chatham Road, CVS on Stevenson Drive, CVS on West Washington Street, CVS on East Carpenter Street. Do any of these sound like your pharmacy, or do you remember any nearby landmarks or cross streets?
+AI: I mean, it might be the one on West Washington Street. I always just call it the Maple Street one, but I could be wrong about the street name. Uh, let's go with Washington Street.
+User: Just to confirm, is your pharmacy CVS at two zero zero one West Washington Street in Springfield, ZIP code six two seven zero two?
+AI: Yeah. That sounds right. I think so.
+User: Could you please provide the name of the pharmacy you want to use for your medication? If you know the address, city, or any details like cross streets or nearby stores, that would help too. If you have their phone or fax number, please share that as well.
+AI: Wait. I already did that. We just went through the whole CVS thing. You okay over there?
+User: I'm here. I wanna make sure we have the correct pharmacy for your medication. Could you tell me the name and location of the CVS you want to use? Any details like the street name, city, or nearby landmarks will help the clinic staff update your pharmacy info.
+AI: I literally just told you. CVS two thousand one West Washington Street, Springfield, Illinois. We just confirmed that. Is something going wrong on your end?
+User: Something's not right with my system. I'm unable to complete your refill request right now. I'll document everything you shared and make sure they're their clinic support team follows up with you as soon as possible. Please stay on the line while I update your request.
+AI: Okay. I mean,
+User: Since my
+AI: Hello? You there?
+User: I'll connect you to our patient support team now. They can help right away since live support is available. Please stay on the line. connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+AI: Wait. What? Did I just get... did they hang up on me? I didn't even get the refill sorted out. That was not great.

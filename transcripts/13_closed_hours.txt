@@ -1,0 +1,18 @@
+User: This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. Am I speaking with Mason?
+AI: Yeah. Hey. That's me. Hi. I'm calling because I need to schedule a follow-up appointment. I've been having some ongoing knee pain. And my doctor wanted me to come back in.
+User: Can you please provide your date of birth?
+AI: Yeah. Sure. It's March fifteenth 19 90.
+User: Thanks, Mason. Just to confirm, you'd like to schedule a follow-up appointment for your ongoing knee pain. Is that correct?
+AI: Yeah. That's right.
+User: Do you have a provider you'd like to see, or are you open to the next available?
+AI: I'd like to see, um, whoever I saw last time, uh, I think it was doctor probably listed in my chart. But if they're not available soon, I'm open to whoever can get me in.
+User: Let me check for follow-up appointment openings with your last provider. First. If nothing is available soon, I'll look for the next available with any provider. 1 moment.
+AI: Yeah. Sounds good.
+User: It looks like you already it looks like you already have a follow-up appointment of this type booked. If you'd like, I can help you reschedule or cancel that appointment. Or I can connect you to a team member for more help. What would you like to do?
+AI: Oh, I didn't realize that. Can you tell me when that appointment is scheduled for?
+User: I don't have access to your exact appointment details. But I can connect you to a team member who can provide that information. Would you like me to transfer you now?
+AI: Actually, you know what? Maybe I just want to reschedule it anyway because I wanna find a time that that works better for me. You have anything this Sunday?
+User: I'm not able to reschedule appointments directly. But I can connect you to a team member who can help you find a better time. Would you like me to transfer you now?
+AI: Yeah. Sure. Go ahead and transfer me. Thanks.
+User: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+AI: Oh, okay then. Laughs. That was unexpected. I guess I'll just call back.

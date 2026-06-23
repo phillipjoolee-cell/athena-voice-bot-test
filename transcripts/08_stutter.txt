@@ -1,0 +1,24 @@
+AI: Hello.
+User: may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics, part of PrettyGoodAI. Am I speaking with Mason?
+AI: Yeah. That's that's me. Hi.
+User: Please tell me your date of birth
+AI: It's it's October fourteenth nineteen ninety.
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. Okay. Lucky today.
+AI: Oh, okay. Yeah. Lucky me.
+User: What can I do for you today? Are you calling about an appointment a medication, or something else.
+AI: So I... I'm calling to schedule a checkup, just a routine one. Nothing urgent.
+User: You'd like to schedule a general checkup? this for a routine office visit?
+AI: Yeah. That's right. Just a routine visit. Yeah.
+User: Do you have a specific provider you'd like to see, or are you open to anyone available?
+AI: I... I'd like to see doctor... whoever I usually see, I don't... I can't remember her name off the top of my head. Sorry.
+User: I'll look for openings with your usual provider. moment while I check the schedule for a routine checkup. Your primary provider is
+AI: Sure.
+User: Your primary provider is doctor Zavigniew Lukowski. The soonest openings are tomorrow, Tuesday, June twenty third at two thirty PM, three PM, or three thirty PM. Would any of these times work for your checkup?
+AI: Tomorrow. That's actually that's actually a little soon for me. do you have anything anything next week maybe?
+User: Next week, the soonest openings with doctor Zabignewlikowski are on Monday, June twenty ninth at ten AM, ten thirty AM, or two PM. Would any of these times work for you?
+AI: The the ten AM on Monday, that that works for me. Yeah.
+User: Just to confirm, you'd like to book Monday, June twenty ninth at ten AM with doctor Zigniew Lukowski for your routine checkup. Is that correct?
+AI: Yeah. That's that's correct. That that works great.
+User: Your appointment is set for Monday, June twenty ninth at ten AM with doctor Zygmiew Lukowski. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them. Is there anything else I can help you with today?
+AI: No. I I think that's everything. Thanks so much.
+User: You're all set for your checkup. If you need anything else, just give us a call. Have a great day.

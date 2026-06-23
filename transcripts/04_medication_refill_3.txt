@@ -1,0 +1,17 @@
+AI: Hello.
+User: Call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopaedics, part of PrettyGoodAI. Am I speaking with Mason?
+AI: Yeah. That's me. Hi.
+User: Please tell me your date of birth
+AI: It's, uh, March fifteenth nineteen ninety.
+User: The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+AI: Yeah. I just need a refill on my anti inflammatory. The one doctor prescribed for my knee pain. I'm almost out.
+User: Can you tell me the exact name of the anti inflammatory medication you need refilled?
+AI: Honestly, I don't remember the name off the top of my head. Sorry. It's just the one for my knee, the joint pain. Doctor prescribed it here, so it should be in my chart.
+User: No problem. I do not see any medications listed in your chart right now. you remember anything about the medication, maybe the color, shape, or if it was a pill or cream? Any details can help.
+AI: It was a pill. I'm pretty sure. I got a refill, like, a month ago, so it should definitely be in there somewhere. Maybe check recent prescriptions?
+User: I do not have access to recent prescription records beyond what is in your chart, and nothing is listed right now. you remember even part of the medication name or what the bottle says, that would help. Otherwise, you may need to contact the clinic directly from this refill. Would you like to try describing the medication further, or should I connect you with a staff member for follow-up?
+AI: Yeah. Can you connect me with a staff member? Because if it was prescribed here a month ago, it's gotta be somewhere. I don't wanna have to come in just for a refill.
+User: I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. Do you wanna give me a try? would you prefer to speak with a staff member right now?
+AI: I mean, if you can actually pull up my prescription history, sure. But if it's not in the system on your end, I think I need a real person. Can you just transfer me?
+User: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+AI: Wait. What? That's... that didn't connect me to anyone. Hello?
