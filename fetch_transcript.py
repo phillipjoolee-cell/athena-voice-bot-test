@@ -24,7 +24,17 @@ from call import read_call_log, transcript_basename
 
 load_dotenv()
 
-VAPI_API_KEY = os.environ["VAPI_API_KEY"]
+
+def require_env_var(name: str) -> str:
+    value = os.getenv(name)
+    if not value:
+        raise RuntimeError(
+            f"Missing required environment variable {name}. "
+            "Please add it to your .env file or export it in your shell."
+        )
+    return value
+
+VAPI_API_KEY = require_env_var("VAPI_API_KEY")
 BASE_URL = "https://api.vapi.ai"
 HEADERS = {"Authorization": f"Bearer {VAPI_API_KEY}"}
 
@@ -32,12 +42,39 @@ TERMINAL_STATUSES = {"ended"}
 DEFAULT_POLL_INTERVAL = 15
 DEFAULT_TIMEOUT = 900
 
+# Retry settings for transient network/server failures
+DEFAULT_FETCH_RETRIES = 3
+DEFAULT_FETCH_RETRY_BACKOFF = 2  # base seconds, exponential backoff
 
-def fetch_call(call_id: str) -> dict:
+
+def fetch_call(call_id: str, retries: int = DEFAULT_FETCH_RETRIES, backoff: int = DEFAULT_FETCH_RETRY_BACKOFF) -> dict:
+    """Fetch call data with simple retry/backoff for transient failures.
+
+    Retries on network errors and on 5xx responses up to `retries` times.
+    """
     url = f"{BASE_URL}/call/{call_id}"
-    resp = requests.get(url, headers=HEADERS)
-    resp.raise_for_status()
-    return resp.json()
+    attempt = 0
+    while True:
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=30)
+            # Treat 5xx as transient server errors we can retry
+            if resp.status_code >= 500 and attempt < retries:
+                attempt += 1
+                sleep_for = backoff * (2 ** (attempt - 1))
+                print(f"Transient server error ({resp.status_code}). Retry {attempt}/{retries} in {sleep_for}s...")
+                time.sleep(sleep_for)
+                continue
+
+            resp.raise_for_status()
+            return resp.json()
+        except requests.RequestException as exc:
+            if attempt < retries:
+                attempt += 1
+                sleep_for = backoff * (2 ** (attempt - 1))
+                print(f"Request failed: {exc}. Retry {attempt}/{retries} in {sleep_for}s...")
+                time.sleep(sleep_for)
+                continue
+            raise
 
 
 def is_call_finished(data: dict) -> bool:

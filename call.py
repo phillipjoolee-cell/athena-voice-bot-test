@@ -19,10 +19,20 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-VAPI_API_KEY = os.environ["VAPI_API_KEY"]
-ASSISTANT_ID = os.environ["ASSISTANT_ID"]
-PHONE_NUMBER_ID = os.environ["PHONE_NUMBER_ID"]
-TARGET_NUMBER = os.environ["TARGET_NUMBER"]
+
+def require_env_var(name: str) -> str:
+    value = os.getenv(name)
+    if not value:
+        raise RuntimeError(
+            f"Missing required environment variable {name}. "
+            "Please add it to your .env file or export it in your shell."
+        )
+    return value
+
+VAPI_API_KEY = require_env_var("VAPI_API_KEY")
+ASSISTANT_ID = require_env_var("ASSISTANT_ID")
+PHONE_NUMBER_ID = require_env_var("PHONE_NUMBER_ID")
+TARGET_NUMBER = require_env_var("TARGET_NUMBER")
 
 BASE_URL = "https://api.vapi.ai"
 HEADERS = {

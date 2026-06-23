@@ -37,18 +37,23 @@ def main(repeat: int):
     for i in range(repeat):
         for scenario_path in scenario_files:
             print(f"--- Scenario: {scenario_path.name} (pass {i + 1}/{repeat}) ---")
-            persona = load_persona(str(scenario_path))
-            update_assistant_prompt(persona)
+            try:
+                persona = load_persona(str(scenario_path))
+                update_assistant_prompt(persona)
 
-            call_id = trigger_call()
-            log_call(scenario_path.name, call_id)
-            basename = transcript_basename(call_id)
-            print(f"Call triggered. ID: {call_id}")
-            print(f"Waiting for call to finish -> transcripts/{basename}.txt\n")
-            wait_and_fetch(call_id)
-
-            print(f"Waiting {PAUSE_BETWEEN_CALLS_SECONDS}s before next call...\n")
-            time.sleep(PAUSE_BETWEEN_CALLS_SECONDS)
+                call_id = trigger_call()
+                log_call(scenario_path.name, call_id)
+                basename = transcript_basename(call_id)
+                print(f"Call triggered. ID: {call_id}")
+                print(f"Waiting for call to finish -> transcripts/{basename}.txt\n")
+                wait_and_fetch(call_id)
+            except Exception as exc:
+                # Log the failure and continue with the next scenario
+                print(f"[error] Scenario {scenario_path.name} (pass {i + 1}/{repeat}) failed: {exc}")
+            finally:
+                # Always pause between calls to avoid hammering the test number
+                print(f"Waiting {PAUSE_BETWEEN_CALLS_SECONDS}s before next call...\n")
+                time.sleep(PAUSE_BETWEEN_CALLS_SECONDS)
 
     print(f"Done. All calls logged to {LOG_PATH} and transcripts saved under transcripts/.")
 
