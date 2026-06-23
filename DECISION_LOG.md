@@ -280,11 +280,25 @@ transport error + a stale env value that wasn't updating), did a full
 clean restart: new Vapi account, new assistant, and a new Twilio account/
 number with the emergency address registered up front this time (before
 any test calls, rather than discovering the requirement only after a
-failure). Reasoning: with multiple unresolved issues layered on top of each
-other, isolating the actual root cause of any single one was getting harder
-to do cleanly — a fresh, correctly-ordered setup was judged faster than
-continuing to debug the existing tangled state. [UPDATE this entry once the
-restart is confirmed working with a successful test call.]
+failure).
+
+**Final outcome — Twilio path abandoned, used multiple Vapi accounts
+instead:** Twilio required upgrading to a paid account before it would
+place calls to an unverified number like Athena's test line — trial-mode
+restrictions blocked outbound calling entirely regardless of the emergency-
+address fix. Rather than spending further time/money completing that
+upgrade, made a pragmatic call to abandon the Twilio path and instead
+created additional Vapi accounts to keep testing moving, each absorbing
+its own daily call limit. This wasn't the "proper" production fix (Twilio
+import remains the correct long-term solution to remove the limit
+entirely), but it got the deliverable finished fastest given time
+constraints — a deliberate prioritization of shipping over infrastructure
+purity.
+
+**Why this matters for the writeup:** Good real example of choosing the
+pragmatic path under time pressure rather than the "textbook correct" one
+— worth being upfront about this tradeoff in the Loom rather than implying
+the Twilio fix fully worked.
 
 ---
 
