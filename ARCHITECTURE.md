@@ -1,27 +1,50 @@
 # Architecture
 
-<!--
-Fill this in yourself once the system is actually running — the brief explicitly
-evaluates whether you can explain your own design choices, not whether this reads
-well. Keep it to 1-2 paragraphs total, per the brief. Bracketed notes below are
-prompts for you, delete them once filled in.
--->
-
 ## How it works
 
-[1 paragraph: the actual pipeline. Something like — "A Python script (call.py) triggers
-an outbound call via Vapi's REST API, which dials Athena's test line
-(+1-805-439-8008) and connects it to a Vapi-hosted assistant. The assistant runs on
-[STT provider], Claude Sonnet [version] as the LLM, and [TTS provider] for voice
-synthesis, all orchestrated by Vapi. Each assistant run uses a persona prompt loaded
-from scenarios/, describing a specific patient scenario (scheduling, refill, edge
-case, etc.). After the call ends, fetch_transcript.py pulls the transcript and
-recording via Vapi's API and saves them locally."]
+A Python script (`call.py`) triggers an outbound call via Vapi's REST API,
+which dials Athena's test line (+1-805-439-8008) using a Vapi-provisioned
+phone number and connects it to a Vapi-hosted assistant running Claude
+Sonnet as the LLM, with Deepgram for transcription and a standard TTS voice
+for synthesis — all orchestrated by Vapi's voice pipeline. Each call loads
+a persona prompt from a `.txt` file in `scenarios/` (14 total, covering
+scheduling, rescheduling, refills, hours/insurance questions, ambiguous
+requests, interruptions, self-correction, disfluent speech, contradictory
+information, silence/pauses, out-of-scope medical questions, multi-task
+calls, closed-hours requests, and proxy callers) and PATCHes it into the
+assistant's system prompt immediately before dialing, so scenarios can be
+swapped without touching code or the Vapi dashboard. After each call ends,
+`fetch_transcript.py` pulls the transcript and recording via Vapi's API,
+and `convert_recordings.py` batch-converts the saved `.wav` recordings to
+`.mp3`. A `run_batch.py` script can run every scenario sequentially with a
+pause between calls, though most calls in this submission were run
+individually so each transcript could be reviewed before continuing — this
+caught several scenario design issues mid-run rather than after a blind
+batch.
 
 ## Why these choices
 
-[1 paragraph: the reasoning, written honestly — e.g. why Vapi over Retell/Bland,
-why Claude as the LLM, why a static prompt library instead of a dynamic
-scenario generator, what tradeoff you accepted given the 6-12 hour window.
-This is the part that's actually graded — be specific about what you decided
-NOT to build and why, not just what you did build.]
+Vapi was chosen over Retell AI and Bland AI because it allows bringing
+Claude directly as the LLM rather than being locked into a vendor default,
+and treats outbound calling as a first-class use case rather than an
+afterthought. A Vapi-provisioned number hit a daily outbound call limit
+partway through testing; importing a Twilio number was attempted to remove
+the constraint, but Twilio required upgrading to a paid account before it
+would place calls to an unverified number, which would have added
+meaningful setup time. Rather than completing that upgrade, the pragmatic
+choice was to spin up additional Vapi accounts to keep testing moving — not
+the textbook-correct production fix, but the faster path to a finished
+deliverable given time constraints. Persona prompts are
+deliberately kept as plain text files rather than structured config, since
+the actual point of this assignment was scenario design and bug-finding,
+not engineering a more elaborate test harness — this kept iteration fast
+when a scenario turned out to be flawed (e.g. an early scenario asked the
+patient to request a medication an orthopedic clinic would never plausibly
+prescribe, causing the test-bot to correctly abandon the call; the fix was
+correcting the scenario's premise, not constraining the LLM further). One
+scenario (genuine mid-sentence interruption/barge-in) was ultimately left
+as a documented limitation rather than fully solved: the test-bot only has
+access to Athena's finalized transcribed text, never her live audio stream,
+so it has no mechanism to inject a response while she's still mid-sentence
+— a real fix would require lower-level access to the voice pipeline's audio
+timing, which was out of scope for this test harness.
